@@ -1,0 +1,30 @@
+*{margin:0; padding:0;}
+ul{list-style:none; 
+position:fixed;
+bottom:50px;
+right:50px;
+text-align:center;}
+body{
+    background-color: #d7eeda;
+}
+ul li{
+    margin: 10px;
+}
+ul li a{
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.seiva_btn li a{
+    background: #1b3766;
+}
+.waves_btn li a{
+    background: #f26c63;
+}
+a{text-decoration:none; color:#fff;}
+img{
+    width:1321px;
+    margin: auto;
+    display: block;
+}
